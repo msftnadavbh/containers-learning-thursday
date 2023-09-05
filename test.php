@@ -8,6 +8,7 @@
 <?php
 echo "<br>";
 echo 'Thank you for attending my Learning Thursday about Containers! ';
+echo 'This is Version 0.1 ';
 echo "<br>";
 
 ?> 
