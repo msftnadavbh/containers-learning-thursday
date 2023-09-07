@@ -9,7 +9,7 @@
 echo "<br>";
 echo 'Thank you for attending my Learning Thursday about Containers! ';
 echo "<br>";
-echo 'This is Version 0.2 ';
+echo 'Today is September 7th. This is version 0.1 ';
 echo "<br>";
 
 ?> 
